@@ -19,6 +19,8 @@
 
 # 2 - Análise preliminar dos dados
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Nosso priemiro passo é importar a base de dados para o google colab
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Nosso primeiro passo é importar a base de dados para o google colab, logo de cara o arquivo é muito grande (143MB) para upar para o github, então recomendo que qualquer um que tente reproduzir essa análise faça download do .csv pelo link e assim como eu, faça upload do arquivo no colab quando for utilizar.
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Segue a análise no colab: 
 
 
