@@ -1,5 +1,4 @@
-# Análise de Transação Fraudulenta
-
+# Uso de diferentes métricas aplicado a Detecção de Fraudes
 ## Sumário
 
 - 1 - Motivação e Obtenção dos dados
